@@ -16,6 +16,7 @@ namespace myBlog.Controllers
     //https://www.c-sharpcorner.com/article/using-fluentvalidation-in-asp-net-core/
     //https://stackoverflow.com/questions/58834222/how-to-update-tables-not-recreate-them-using-net-core-entity-framework-migrat
     //https://www.c-sharpcorner.com/article/crud-operations-unit-testing-in-asp-net-core-web-api-with-xunit/
+    //https://travis-ci.community/t/dotnet-core-3-1-1-on-windows/6609/2
 
 
     //[Produces("application/json")]
